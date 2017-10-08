@@ -8,7 +8,9 @@ Esta correción es compatible con las Versiones de WHMCS V7.X.X
 
 <strong>INSTALACIÓN</strong>
 
-Copie los archivos en las rutas especificadas.
+Reemplace el archivo <strong>scrpts.js</strong> en la siguiente ruta: \whmcs\templates\orderforms\standard_cart\js\
+Reemplace el archivo <strong>common.tpl</strong> en la siguiente ruta: \whmcs\templates\orderforms\standard_cart\
+
 
 para soporte: soporte@caribehost.co
 
